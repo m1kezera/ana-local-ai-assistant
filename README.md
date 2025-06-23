@@ -34,8 +34,6 @@ ANA/
 ├── content_diverse/ebooks/   # Offline PDF learning material
 ├── logs/                      # Execution logs and debug info
 ├── models/openhermes/        # GGUF model file here (.gguf)
-├── chats/                    # Saved chat histories (JSON)
-├── data/, downloads/, user/  # Runtime assets
 ```
 
 ### `modules/` breakdown:
