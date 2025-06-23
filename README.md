@@ -3,7 +3,6 @@ NOTE : Some files, commentaries or other texts might be in portuguese, just tran
 
 # ANA - Autonomous Neural Assistant (v1.0)
 
-![ANA Screenshot](https://raw.githubusercontent.com/your-user/ana/main/preview.png)
 
 ANA is a local administrative assistant powered by a Mistral-based LLM (OpenHermes 2.5 in GGUF format), capable of learning from PDFs, answering intelligently, and managing operations through a GUI built in PyQt6. This is version **1.0**, an early-stage release intended for showcasing and further development.
 
