@@ -1,0 +1,14 @@
+[
+  {
+    "texto": "🌞 Olá Mikhael, estou acordada. O que deseja explorar hoje?",
+    "tipo": "ana"
+  },
+  {
+    "texto": "Olá",
+    "tipo": "user"
+  },
+  {
+    "texto": "(❌ O modelo não foi carregado corretamente.)",
+    "tipo": "ana"
+  }
+]
